@@ -79,8 +79,9 @@ span {
 .header-menu {
   display: flex;
   gap: 40px;
-  position: relative;
+  position: relative; 
   color: #404bbf;
+
 }
 .header-menu::after {
   content: "";
